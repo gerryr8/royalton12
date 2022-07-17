@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://www.oyster.com/wp-content/uploads/sites/35/2019/05/luxury-family-suite-ocean-view-v12938994-1440.jpg);
+}
+.container{
+    
+    height: 70vh;
+    width: 40%;
+    margin: auto;
+    position: relative;
+    margin-top: 5%;
+    border-radius: 20px;
+    background-color: rgba(209, 209, 218, 0.486);
+}
+#login{
+color: rgb(255, 255, 255);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+padding-top: 50px;
+}
+form{
+   
+
+}
+input.login{
+    display: block;
+    position: relative;
+    margin-top: 30px;
+    width: 50%;
+    height: 30px;
+    top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+input.submit{
+    display: block;
+    background-color: rgb(34, 110, 139);
+    position: relative;
+    margin-top: 100px;
+    width: 20%;
+    height: 30px;
+    color: white;
+    margin-left: 50%;
+    margin-right: 50%;
+}
